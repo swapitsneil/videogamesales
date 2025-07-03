@@ -6,7 +6,7 @@ This project provides a complete analysis and visualization of global video game
 ---
 ## Dashboard
 PowerBI
-![Image](https://github.com/user-attachments/assets/ab746c14-393f-4fef-987d-4ab4fde65f58)
+![Image](https://github.com/user-attachments/assets/2d0e99fa-4499-47c2-9578-263ba9191373)
 
 Excel
 ![Image](https://github.com/user-attachments/assets/00d42644-7343-4934-939e-6859f93adc37)
